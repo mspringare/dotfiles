@@ -1,0 +1,12 @@
+[user]
+	email = mspringare@spotify.com
+	name = Mattias Springare
+[color]
+	ui = true
+[core]
+	#autocrlf = input
+	#safecrlf = true
+[branch "master"]
+	rebase = true
+[push]
+	default = tracking

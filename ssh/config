@@ -3,11 +3,6 @@ Host debian
     Hostname 127.0.0.1
 Host ldap.spotify.net
     UserKnownHostsFile /dev/null
-Host webauth
-    Port 2222
-    HostName 127.0.0.1
-Host dalnix.homeip.net
-    User masp01
 Host cb3
     Port 2222
     Hostname 212.36.60.214

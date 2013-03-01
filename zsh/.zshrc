@@ -32,6 +32,7 @@ ZSH_THEME="robbyrussell"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
+[ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
 
 # Customize to your needs...
 export PATH=/Users/mspringare/bin:/usr/local/Cellar/coreutils/8.17/libexec/gnubin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin:/usr/local/sbin
